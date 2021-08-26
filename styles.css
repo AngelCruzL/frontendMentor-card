@@ -25,10 +25,10 @@ body {
   font-size: 1.6rem;
   font-weight: 500;
   line-height: 1.45;
-  color: var(--blue-300);
-  background: url('./images/pattern-background-mobile.svg') no-repeat;
-  background-position: center;
-  background-size: cover;
+  background-color: var(--blue-200);
+  background-image: url('./images/pattern-background-desktop.svg');
+  background-repeat: no-repeat;
+  background-size: contain;
 }
 
 .wrapper {
